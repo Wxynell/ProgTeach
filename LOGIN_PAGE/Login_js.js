@@ -104,7 +104,7 @@ $(document).ready(function()
     })
 
     $('#back').click(function(){
-        window.location.href ="../HOME_PAGE (Not Logged)/index.html"
+        window.location.href ="../HOME_PAGE (Not Logged)/Home_page.html"
     })
 })
 
